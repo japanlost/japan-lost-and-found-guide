@@ -6,7 +6,9 @@
 
 - [Lost item recovery in Japan (English)](https://japanlost.com/): How the free check and the all-in quote work, pricing, FAQ, and contact.
 - [일본 분실물 회수 서비스 (한국어)](https://japanlost.com/ko/): Korean version of the service page, with Korea-specific pricing.
+- [日本遗失物找回服务 (简体中文)](https://japanlost.com/zh/): Chinese version of the service page, with China-specific pricing.
 - [Lost and found guide for Japan](https://japanlost.com/guide/): How long hotels, railways, airports and police hold lost property in Japan, and how to contact them.
+- [For hotels and facilities (Japanese)](https://japanlost.com/partners/): How a facility can hand a guest's lost item to us so we can forward it to the guest overseas.
 - [Legal (Specified Commercial Transactions Act)](https://japanlost.com/legal/): Business information required under Japanese law.
 
 ## Contact
