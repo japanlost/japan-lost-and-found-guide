@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://japanlost.com/</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-27</lastmod>
   </url>
   <url>
     <loc>https://japanlost.com/guide/</loc>
@@ -16,12 +16,12 @@
     <loc>https://japanlost.com/partners/</loc>
     <lastmod>2026-11-26</lastmod>
   </url>
-    <url>
+  <url>
     <loc>https://japanlost.com/ko/</loc>
     <lastmod>2026-11-27</lastmod>
-    </url>
-    <url>
-          <loc>https://japanlost.com/zh/</loc>
-          <lastmod>2026-11-27</lastmod>
-    </url>
+  </url>
+  <url>
+    <loc>https://japanlost.com/zh/</loc>
+    <lastmod>2026-11-27</lastmod>
+  </url>
 </urlset>
