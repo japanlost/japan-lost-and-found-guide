@@ -1,0 +1,15 @@
+# Japan Lost
+
+> A lost-item recovery service based in Tokyo, Japan. We contact hotels, stations and other facilities in Japanese for free to check whether a lost item is still being held. If the item is found and the facility can only ship within Japan, we quote one all-in total before any payment, receive the item in Tokyo, photograph it for confirmation, and forward it internationally with tracking. Nothing is owed if the item is not found or cannot be released. Police-held items are guidance only; passports, cash and dangerous goods are not handled.
+
+## Service pages
+
+- [Lost item recovery in Japan (English)](https://japanlost.com/): How the free check and the all-in quote work, pricing, FAQ, and contact.
+- [일본 분실물 회수 서비스 (한국어)](https://japanlost.com/ko/): Korean version of the service page, with Korea-specific pricing.
+- [Lost and found guide for Japan](https://japanlost.com/guide/): How long hotels, railways, airports and police hold lost property in Japan, and how to contact them.
+- [Legal (Specified Commercial Transactions Act)](https://japanlost.com/legal/): Business information required under Japanese law.
+
+## Contact
+
+- Email: contact@japanlost.com
+- The check is free: send the facility name, a description of the item, and your stay or travel dates.
